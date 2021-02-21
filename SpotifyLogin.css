@@ -1,0 +1,19 @@
+.spotifyLogin {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+
+}
+
+.spotifyLogin > img {
+    width:50%
+}
+
+.spotifyLogin > a {
+    padding: 20px;
+    border-radius: 99px;
+    background-color: #1db954;
+    font-weight: 700;
+    color: white;
+    text-decoration: none;
+}
