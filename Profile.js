@@ -80,7 +80,7 @@ class Profile extends Component {
             <div className="register">
                 <form onSubmit={this.handleSubmit}>
                   
-                    <h1>Sign-Uup</h1>
+                    <h1>Sign Up</h1>
 
                     <label>First Name :</label> <input type="text" value={this.state.firstName} onChange={this.firsthandler} placeholder="First Name" /><br />
 

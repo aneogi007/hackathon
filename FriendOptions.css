@@ -1,0 +1,12 @@
+.friendOptions {
+    display: flex;
+    align-items: center;
+    color: grey;
+    height: 40px;
+    cursor: pointer;
+    transition: 200ms color ease-in
+}
+
+.friendOptions:hover {
+    color: #1db954;
+}
